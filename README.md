@@ -24,6 +24,7 @@ I believe that great software is built on strong fundamentals, clear thinking, a
 
 * Java
 * JavaScript
+* Python
 * SQL
 * HTML
 * CSS
